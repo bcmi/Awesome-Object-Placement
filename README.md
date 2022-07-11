@@ -28,19 +28,27 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 
 ##### 1.2 Discriminative Methods
 
-+ Liu Liu, Zhenchen Liu, Bo Zhang, Jiangtong Li, Li Niu, Qingyang Liu, Liqing Zhang: "*OPA: Object Placement Assessment Dataset.*" arXiv preprint arXiv:2107.01889 [[arXiv]](https://arxiv.org/pdf/2107.01889.pdf)[[code]](https://github.com/bcmi/Object-Placement-Assessment-Dataset-OPA)
++ Liu Liu, Zhenchen Liu, Bo Zhang, Jiangtong Li, Li Niu, Qingyang Liu, Liqing Zhang: "*OPA: Object Placement Assessment Dataset.*" arXiv:2107.01889 (2021) [[arXiv]](https://arxiv.org/pdf/2107.01889.pdf)[[code]](https://github.com/bcmi/Object-Placement-Assessment-Dataset-OPA)
+
++ Li Niu, Qingyang Liu, Zhenchen Liu, Jiangtong Li: "*Fast Object Placement Assessment.*" arXiv:2205.14280 (2022) [[arXiv]](https://arxiv.org/pdf/2205.14280.pdf)
+
+
 
 #### 2. Category-specific: predict bounding boxes for certain categories given a background
 
 ##### 2.1 Generative Methods
 
-+ Anna Volokitin, Igor Susmelj, Eirikur Agustsson, Luc Van Gool, Radu Timofte: "*Efficiently Detecting Plausible Locations for Object Placement Using Masked Convolutions.*" ECCV workshop (2020) [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-66823-5_15)
-
-+ Song-Hai Zhang, Zhengping Zhou, Bin Liu, Xi Dong, Peter Hall: "*What and Where: A Context-based Recommendation System for Object Insertion.*" Computational Visual Media (2020) [[arXiv]](https://arxiv.org/pdf/1811.09783.pdf)
-
 + Donghoon Lee, Sifei Liu, Jinwei Gu, Ming-Yu Liu, Ming-Hsuan Yang, Jan Kautz: "*Context-Aware Synthesis and Placement of Object Instances.*" NeurIPS (2018) [[pdf]](https://proceedings.neurips.cc/paper/2018/file/c6969ae30d99f73951cb976b88a457af-Paper.pdf)
 
 + Fuwen Tan, Crispin Bernier, Benjamin Cohen, Vicente Ordonez, Connelly Barnes: "*Where and Who? Automatic Semantic-Aware Person Composition.*" WACV (2018) [[arXiv]](https://arxiv.org/pdf/1706.01021.pdf)[[code]](https://github.com/fwtan/who_where)
+
+##### 2.2 Discriminative Methods
+
++ Nikita Dvornik, Julien Mairal, Cordelia Schmid: "*Modeling Visual Context is Key to Augmenting Object Detection Datasets.*" ECCV (2018) [[pdf]](https://openaccess.thecvf.com/content_ECCV_2018/papers/NIKITA_DVORNIK_Modeling_Visual_Context_ECCV_2018_paper.pdf)
+
++ Nikita Dvornik, Julien Mairal, Cordelia Schmid: "*On the Importance of Visual Context for Data Augmentation in Scene Understanding.*" T-PAMI (2019) [[arXiv]](https://arxiv.org/pdf/1809.02492.pdf)
+
++ Anna Volokitin, Igor Susmelj, Eirikur Agustsson, Luc Van Gool, Radu Timofte: "*Efficiently Detecting Plausible Locations for Object Placement Using Masked Convolutions.*" ECCV workshop (2020) [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-66823-5_15)
 
 
 ## Datasets
