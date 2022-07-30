@@ -18,7 +18,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 
 ##### 1.1 Generative Methods
 
-+ Siyuan Zhou, Liu Liu, Li Niu, Liqing Zhang: "*Learning Object Placement via Dual-path Graph Completion.*" ECCV (2022)
++ Siyuan Zhou, Liu Liu, Li Niu, Liqing Zhang: "*Learning Object Placement via Dual-path Graph Completion.*" ECCV (2022) [[arXiv]](https://arxiv.org/pdf/2207.11464.pdf) [[code]](https://github.com/bcmi/GracoNet-Object-Placement)
 
 + Lingzhi Zhang, Tarmily Wen, Jie Min, Jiancong Wang, David Han, Jianbo Shi: "*Learning Object Placement by Inpainting for Compositional Data Augmentation.*" ECCV (2020) [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580562.pdf)
 
