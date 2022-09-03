@@ -55,6 +55,15 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 
 + **OPA**: it contains 62,074 training images and 11,396 test images, in which the foregrounds/backgrounds in training set and test set have no overlap. The training (resp., test) set contains 21,376 (resp.,3,588) positive samples and 40,698 (resp., 7,808) negative samples. Besides, the training (resp., test) set contains 2,701 (resp., 1,436) unrepeated foreground objects and1,236 (resp., 153) unrepeated background images. [[pdf]](https://arxiv.org/pdf/2107.01889.pdf) [[link]](https://github.com/bcmi/Object-Placement-Assessment-Dataset-OPA)
  
+## Related Topics
+
+#### Out-of-Context Object
+
++ Philipp Bomatter, Mengmi Zhang, Dimitar Karev, Spandan Madan, Claire Tseng, Gabriel Kreiman: "*When Pigs Fly: Contextual Reasoning in Synthetic and Natural Scenes.*" ICCV (2021) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Bomatter_When_Pigs_Fly_Contextual_Reasoning_in_Synthetic_and_Natural_Scenes_ICCV_2021_paper.pdf) [[dataset&code]](https://github.com/kreimanlab/WhenPigsFlyContext)
+
++ Manoj Acharya, Anirban Roy, Kaushik Koneripalli, Susmit Jha, Christopher Kanan, Ajay Divakaran: "*Detecting Out-Of-Context Objects Using Graph Context Reasoning Network.*" IJCAI (2022) [[paper]](https://www.ijcai.org/proceedings/2022/0089.pdf)
+
+
 ## Other Resources
 
 + [Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition)
