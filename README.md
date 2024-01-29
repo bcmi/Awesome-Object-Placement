@@ -27,7 +27,11 @@ Li Niu, Wenyan Cong, Liu Liu, Yan Hong, Bo Zhang, Jing Liang, Liqing Zhang: "*Ma
 
 ##### 1.1 Generative Methods
 
++ Guosheng Ye, Jianming Wang, Zizhong Yang: "*Efficient Object Placement via FTOPNet.*" Electronics (2023) [[pdf]](https://www.mdpi.com/2079-9292/12/19/4106)
+
 + Shengping Zhang, Quanling Meng, Qinglin Liu, Liqiang Nie, Bineng Zhong, Xiaopeng Fan, Rongrong Ji: "*Interactive Object Placement with Reinforcement Learning.*" ICML (2023) [[pdf]](https://openreview.net/pdf?id=hwHBaL7wur)
+
++ Yibin Wang, Yuchao Feng, Jie Wu, Honghui Xu, Jianwei Zheng: "*CA-GAN: Object Placement via Coalescing Attention based Generative Adversarial Network.*" ICME (2023) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10219885&casa_token=ti6N3G0_3WQAAAAA:4GFxgkc3U-U4HRGj689_9EpJq3Of9xiqVvLhD7ZGcdBtJQKqK_oujKNnfhgZHzZ-1rhXkF3H)
  
 + Siyuan Zhou, Liu Liu, Li Niu, Liqing Zhang: "*Learning Object Placement via Dual-path Graph Completion.*" ECCV (2022) [[arXiv]](https://arxiv.org/pdf/2207.11464.pdf) [[code]](https://github.com/bcmi/GracoNet-Object-Placement)
 
