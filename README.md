@@ -1,6 +1,15 @@
 # Awesome Object Placement [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of resources including papers, datasets, and relevant links pertaining to object placement, which aims to learn plausible **spatial transformation** (e.g., shifting, scaling, affine transformation, perspective transformation) for the inserted foreground object in a composite image considering geometric and semantic information. The simplest case is finding reasonable **location and scale** for the foreground object. 
+A curated list of resources including papers, datasets, and relevant links pertaining to object placement, which aims to learn plausible **spatial transformation** (e.g., shifting, scaling, affine transformation, perspective transformation) for the inserted foreground object in a composite image considering geometric and semantic information. The simplest case is finding reasonable **location and scale** for the foreground object. For more complete resources on general image composition, please refer to [Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition).
+
+We can define three levels of tasks for object placement. (1) Level 1: given a composite image, verify whether the foreground placement is reasonable. (2) Level 2: given a pair of foreground and background, generate one composite image with reasonable foreground placement. (3) Level 3: given a pair of foreground and background, generate all composite images with reasonable foreground placement.
+
+
+<p align='center'>  
+  <img src='./figures/task.jpg'  width=70% />
+</p>
+
+
 
 ## Contributing
 
@@ -8,6 +17,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 
 ## Table of Contents
 + [Survey](#Survey)
++ [Online Demo](#Online-demo)
 + [Papers](#Papers)
 + [Datasets](#Datasets)
 + [Other Resources](#Other-resources)
@@ -16,7 +26,11 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 
 A brief review on object placement is included in the following survey on image composition:
 
-Li Niu, Wenyan Cong, Liu Liu, Yan Hong, Bo Zhang, Jing Liang, Liqing Zhang: "*Making Images Real Again: A Comprehensive Survey on Deep Image Composition.*" arXiv preprint arXiv:2106.14490 (2021). [[arXiv]](https://arxiv.org/pdf/2106.14490.pdf)
+Li Niu, Wenyan Cong, Liu Liu, Yan Hong, Bo Zhang, Jing Liang, Liqing Zhang: "*Making Images Real Again: A Comprehensive Survey on Deep Image Composition.*" arXiv preprint arXiv:2106.14490 (2021). [[arXiv]](https://arxiv.org/pdf/2106.14490.pdf) [[slides]](https://www.ustcnewly.com/download/Image_composition_tutorial.pdf)
+
+## Online Demo
+
+Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_composition/) for object placement and have fun! ![hot](https://bcmi.sjtu.edu.cn/~niuli/images/fire.png)
 
 ## Papers
 
