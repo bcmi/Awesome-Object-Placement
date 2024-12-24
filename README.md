@@ -38,6 +38,12 @@ Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_compositio
 
 ##### 1.1 Generative Methods
 
++  Gemma Canet Tarrés, Zhe Lin, Zhifei Zhang, Jianming Zhang, Yizhi Song, Dan Ruta, Andrew Gilbert, John Collomosse, Soo Ye Kim: "*Thinking Outside the BBox: Unconstrained Generative Object Compositing.*" ECCV (2024) [[pdf]](https://arxiv.org/pdf/2409.04559) 
+
++ Yaxuan Qin, Jiayu Xu, Ruiping Wang, Xilin Chen: "*Think before Placement: Common Sense Enhanced Transformer for Object Placement.*" ECCV (2024) [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09204.pdf) [[code]](https://github.com/JiayuXu829/ThinkBeforePlacement)
+
++ Yibin Wang, Yuchao Feng, Jianwei Zheng: "*Learning Object Placement via Convolution Scoring Attention.*" BMVC (2024) [[pdf]](https://bmva-archive.org.uk/bmvc/2024/papers/Paper_165/paper.pdf) [[code]](https://github.com/CodeGoat24/CSANet)
+
 + Guosheng Ye, Jianming Wang, Zizhong Yang: "*Efficient Object Placement via FTOPNet.*" Electronics (2023) [[pdf]](https://www.mdpi.com/2079-9292/12/19/4106)
 
 + Shengping Zhang, Quanling Meng, Qinglin Liu, Liqiang Nie, Bineng Zhong, Xiaopeng Fan, Rongrong Ji: "*Interactive Object Placement with Reinforcement Learning.*" ICML (2023) [[pdf]](https://openreview.net/pdf?id=hwHBaL7wur)
@@ -64,9 +70,13 @@ Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_compositio
 
 
 
-#### 2. Category-specific: predict bounding boxes for certain categories given a background
+#### 2. Category-specific: predict placement for certain category given a background
 
 ##### 2.1 Generative Methods
+
++ Rishubh Parihar, Harsh Gupta, Sachidanand VS, R. Venkatesh Babu: "*Text2Place: Affordance-aware Text Guided Human Placement.*" ECCV (2024) [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00308.pdf) [[code]](https://github.com/Harsh-Gupta9897/Text2Place)
+
++ Jieteng Yao, Junjie Chen, Li Niu, Bin Sheng: "*Scene-aware Human Pose Generation using Transformer.*" ACM MM (2023) [[pdf]](https://arxiv.org/pdf/2308.02177)
 
 + Donghoon Lee, Sifei Liu, Jinwei Gu, Ming-Yu Liu, Ming-Hsuan Yang, Jan Kautz: "*Context-Aware Synthesis and Placement of Object Instances.*" NeurIPS (2018) [[pdf]](https://proceedings.neurips.cc/paper/2018/file/c6969ae30d99f73951cb976b88a457af-Paper.pdf)
 
@@ -83,6 +93,8 @@ Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_compositio
 
 ## Datasets
 
++ **OPAZ**:  7 distinct categories of foreground objects with 15 images for each category. 10 background images for each category. OPAZ comprises 8,160 generated images, of which 1,390 are labeled as rational, and 6,770 as irrational. [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09204.pdf) [[link]](https://github.com/JiayuXu829/ThinkBeforePlacement)
+  
 + **OPA**: it contains 62,074 training images and 11,396 test images, in which the foregrounds/backgrounds in training set and test set have no overlap. The training (resp., test) set contains 21,376 (resp.,3,588) positive samples and 40,698 (resp., 7,808) negative samples. Besides, the training (resp., test) set contains 2,701 (resp., 1,436) unrepeated foreground objects and1,236 (resp., 153) unrepeated background images. [[pdf]](https://arxiv.org/pdf/2107.01889.pdf) [[link]](https://github.com/bcmi/Object-Placement-Assessment-Dataset-OPA)
 
 + **STRAT**: it contains three subdatasets: STRAT-glasses, STRAT-hat, and STRAT-tie, which correspond to "glasses try-on", "hat try-on", and "tie try-on" respectively. The accessory image (resp., human face or portrait image) is treated as foreground (resp., background). In each subdataset, the training set has 2000 pairs of foregrounds and backgrounds, while the test set has 1000 pairs of foregrounds and backgrounds. [[pdf]](https://arxiv.org/pdf/2207.02398.pdf) [[link]](https://github.com/bcmi/Accessory-Try-On-Dataset-STRAT)
