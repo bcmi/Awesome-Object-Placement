@@ -42,6 +42,8 @@ Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_compositio
 
 + Yaxuan Qin, Jiayu Xu, Ruiping Wang, Xilin Chen: "*Think before Placement: Common Sense Enhanced Transformer for Object Placement.*" ECCV (2024) [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09204.pdf) [[code]](https://github.com/JiayuXu829/ThinkBeforePlacement)
 
++ Jiacheng Liu, Shida Wei, Rui Ma: "*Conditional Transformation Diffusion for Object Placement.*" ICIGP (2024) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3647649.3647706)
+
 + Yibin Wang, Yuchao Feng, Jianwei Zheng: "*Learning Object Placement via Convolution Scoring Attention.*" BMVC (2024) [[pdf]](https://bmva-archive.org.uk/bmvc/2024/papers/Paper_165/paper.pdf) [[code]](https://github.com/CodeGoat24/CSANet)
 
 + Guosheng Ye, Jianming Wang, Zizhong Yang: "*Efficient Object Placement via FTOPNet.*" Electronics (2023) [[pdf]](https://www.mdpi.com/2079-9292/12/19/4106)
@@ -59,8 +61,8 @@ Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_compositio
 + Chen-Hsuan Lin, Ersin Yumer, Oliver Wang, Eli Shechtman, Simon Lucey: "*ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing.*" CVPR (2018) [[arXiv]](https://arxiv.org/pdf/1803.01837.pdf) [[code]](https://github.com/chenhsuanlin/spatial-transformer-GAN)
 
 ##### 1.2 Discriminative Methods
-
-+  Sijie Zhu, Zhe Lin, Scott Cohen, Jason Kuen, Zhifei Zhang, Chen Chen: "*TopNet: Transformer-based Object Placement Network for Image Compositing.*"  CVPR (2023) [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_TopNet_Transformer-Based_Object_Placement_Network_for_Image_Compositing_CVPR_2023_paper.pdf)
+  
++ Sijie Zhu, Zhe Lin, Scott Cohen, Jason Kuen, Zhifei Zhang, Chen Chen: "*TopNet: Transformer-based Object Placement Network for Image Compositing.*"  CVPR (2023) [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_TopNet_Transformer-Based_Object_Placement_Network_for_Image_Compositing_CVPR_2023_paper.pdf)
 
 + Li Niu, Qingyang Liu, Zhenchen Liu, Jiangtong Li: "*Fast Object Placement Assessment.*" arXiv:2205.14280 (2022) [[arXiv]](https://arxiv.org/pdf/2205.14280.pdf) [[code]](https://github.com/bcmi/FOPA-Fast-Object-Placement-Assessment)
 
@@ -83,6 +85,8 @@ Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_compositio
 + Fuwen Tan, Crispin Bernier, Benjamin Cohen, Vicente Ordonez, Connelly Barnes: "*Where and Who? Automatic Semantic-Aware Person Composition.*" WACV (2018) [[arXiv]](https://arxiv.org/pdf/1706.01021.pdf)[[code]](https://github.com/fwtan/who_where)
 
 ##### 2.2 Discriminative Methods
+
++ Lu Yuan, James Hong, Vishnu Sarukkai, Kayvon Fatahalian: "*Learning to place objects into scenes by hallucinating scenes around objects.*" NeurIPS Workshop (2023) [[pdf]](https://openreview.net/pdf/75f46a7ff0b8faa6cf50876babbcd77847e16301.pdf)
 
 + Anna Volokitin, Igor Susmelj, Eirikur Agustsson, Luc Van Gool, Radu Timofte: "*Efficiently Detecting Plausible Locations for Object Placement Using Masked Convolutions.*" ECCV workshop (2020) [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-66823-5_15)
 
