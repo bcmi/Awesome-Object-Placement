@@ -38,6 +38,8 @@ Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_compositio
 
 ##### 1.1 Generative Methods
 
++ Hang Zhou, Xinxin Zuo, Rui Ma, Li Cheng: "*BOOTPLACE: Bootstrapped Object Placement with Detection Transformers.*" CVPR (2025) [[pdf]](https://arxiv.org/pdf/2503.21991) [[code]](https://github.com/RyanHangZhou/BOOTPLACE)
+
 +  Gemma Canet Tarrés, Zhe Lin, Zhifei Zhang, Jianming Zhang, Yizhi Song, Dan Ruta, Andrew Gilbert, John Collomosse, Soo Ye Kim: "*Thinking Outside the BBox: Unconstrained Generative Object Compositing.*" ECCV (2024) [[pdf]](https://arxiv.org/pdf/2409.04559) 
 
 + Yaxuan Qin, Jiayu Xu, Ruiping Wang, Xilin Chen: "*Think before Placement: Common Sense Enhanced Transformer for Object Placement.*" ECCV (2024) [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09204.pdf) [[code]](https://github.com/JiayuXu829/ThinkBeforePlacement)
