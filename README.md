@@ -103,7 +103,6 @@ Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_compositio
   
 + **OPA**: it contains 62,074 training images and 11,396 test images, in which the foregrounds/backgrounds in training set and test set have no overlap. The training (resp., test) set contains 21,376 (resp.,3,588) positive samples and 40,698 (resp., 7,808) negative samples. Besides, the training (resp., test) set contains 2,701 (resp., 1,436) unrepeated foreground objects and1,236 (resp., 153) unrepeated background images. [[pdf]](https://arxiv.org/pdf/2107.01889.pdf) [[link]](https://github.com/bcmi/Object-Placement-Assessment-Dataset-OPA)
 
-+ **STRAT**: it contains three subdatasets: STRAT-glasses, STRAT-hat, and STRAT-tie, which correspond to "glasses try-on", "hat try-on", and "tie try-on" respectively. The accessory image (resp., human face or portrait image) is treated as foreground (resp., background). In each subdataset, the training set has 2000 pairs of foregrounds and backgrounds, while the test set has 1000 pairs of foregrounds and backgrounds. [[pdf]](https://arxiv.org/pdf/2207.02398.pdf) [[link]](https://github.com/bcmi/Accessory-Try-On-Dataset-STRAT)
  
 ## Related Topics
 
