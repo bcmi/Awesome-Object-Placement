@@ -64,6 +64,8 @@ Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_compositio
 
 ##### 1.2 Discriminative Methods
 
++ Bingjie Gao, Bo Zhang, Li Niu: "*Object Placement for Anything.*"  ICME (2025) [[arXiv]](https://arxiv.org/pdf/2504.12029)
+
 + Matthew Poska, Sharon X. Huang, Bin Hwang: "*HopNet: Harmonizing object placement network for realistic image generation via object composition.*" (2025) [[pdf]](https://assets.amazon.science/51/89/cc524d884b4ca51a6034aefab1f6/hopnet-harmonizing-object-placement-network-for-realistic-image-generation-via-object-composition.pdf)
   
 + Sijie Zhu, Zhe Lin, Scott Cohen, Jason Kuen, Zhifei Zhang, Chen Chen: "*TopNet: Transformer-based Object Placement Network for Image Compositing.*"  CVPR (2023) [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_TopNet_Transformer-Based_Object_Placement_Network_for_Image_Compositing_CVPR_2023_paper.pdf)
