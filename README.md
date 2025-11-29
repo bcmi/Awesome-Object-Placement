@@ -30,7 +30,7 @@ Li Niu, Wenyan Cong, Liu Liu, Yan Hong, Bo Zhang, Jing Liang, Liqing Zhang: "*Ma
 
 ## Online Demo
 
-Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_composition/) for object placement and have fun! ![hot](https://bcmi.sjtu.edu.cn/~niuli/images/fire.png)
+Try this [online demo](http://libcom.ustcnewly.com/) for object placement and have fun! 
 
 ## Papers
 
