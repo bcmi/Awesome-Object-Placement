@@ -32,6 +32,8 @@ Li Niu, Wenyan Cong, Liu Liu, Yan Hong, Bo Zhang, Jing Liang, Liqing Zhang: "*Ma
 
 Try this [online demo](http://libcom.ustcnewly.com/) for object placement and have fun! 
 
+[![]](https://github.com/user-attachments/assets/87416ec5-2461-42cb-9f2d-5030b1e1b5ec)
+
 ## Papers
 
 #### 1. Instance-specific: predict transformation parameters given a pair of foreground and background
