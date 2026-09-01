@@ -45,6 +45,8 @@ Try this [online demo](http://libcom.ustcnewly.com/) for image composition (obje
 
 ##### 1.1 Generative Methods
 
++ Weixuan Ding, Shang Liu, Hanyu Pei, Zeyan Liu: "*presto: Efficient, Training-free, and Open-world Object Placement via Imaginary Search.*" arXiv preprint arXiv:2608.21543 (2026) [[arXiv]](https://arxiv.org/pdf/2608.21543)
+
 + Xianhe Cheng, Peng Zhai, Dingkang Yang, Xiangrui Meng, Yang Xia, Lihua Zhang: "*Diverse Object Placement with Dual Interaction.*" Neurocomputing (2025) [[pdf]](https://www.sciencedirect.com/science/article/pii/S0925231225018338)
 
 + Hang Zhou, Xinxin Zuo, Rui Ma, Li Cheng: "*BOOTPLACE: Bootstrapped Object Placement with Detection Transformers.*" CVPR (2025) [[pdf]](https://arxiv.org/pdf/2503.21991) [[code]](https://github.com/RyanHangZhou/BOOTPLACE)
