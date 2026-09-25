@@ -93,6 +93,8 @@ Try this [online demo](http://libcom.ustcnewly.com/) for image composition (obje
 
 ##### 2.1 Generative Methods
 
++ Xuzheng Chen, Gang Shen, Rundong Cao, Guojie Song: "*Semantic-Driven Object Placement via Multi-modal Large Language Models.*" PAKDD (2026) [[pdf]](https://link.springer.com/chapter/10.1007/978-981-92-1947-6_17)
+
 + Rishubh Parihar, Harsh Gupta, Sachidanand VS, R. Venkatesh Babu: "*Text2Place: Affordance-aware Text Guided Human Placement.*" ECCV (2024) [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00308.pdf) [[code]](https://github.com/Harsh-Gupta9897/Text2Place)
 
 + Jieteng Yao, Junjie Chen, Li Niu, Bin Sheng: "*Scene-aware Human Pose Generation using Transformer.*" ACM MM (2023) [[pdf]](https://arxiv.org/pdf/2308.02177)
